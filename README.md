@@ -1,2 +1,2 @@
-# Learning-Python
+#Python
 Test Python and git
